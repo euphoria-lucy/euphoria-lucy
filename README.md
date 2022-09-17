@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## <img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/> SNS <img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/>
 <a href="https://www.instagram.com/jsdream._.7/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://voielactee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-EF2D5E?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://velog.io/@voielactee" target="_blank"><img src="https://img.shields.io/badge/VELOG-FF3366?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://voielactee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://velog.io/@voielactee" target="_blank"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
