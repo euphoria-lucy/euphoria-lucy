@@ -1,6 +1,8 @@
 <div align="center">
 <h1><img src="https://img.icons8.com/external-microdots-premium-microdot-graphic/37/000000/external-galaxy-space-astronomy-microdots-premium-microdot-graphic.png"/>   WELCOME TO MISU'S WORLD<img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/37/000000/external-space-space-and-galaxy-itim2101-lineal-color-itim2101.png"/></h1>
  </div>
+ <br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feuphoria-lucy&count_bg=%23C2C9DD&title_bg=%23555555&icon=&icon_color=%23C2C9DD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **euphoria-lucy/euphoria-lucy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
