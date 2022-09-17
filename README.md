@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphoria-lucy&show_icons=true&theme=rose_pine)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoria-lucy&layout=compact)](https://github.com/euphoria-lucy/github-rose_pine)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoria-lucy&layout=compact)](https://github.com/euphoria-lucy/github-rose-pine)
