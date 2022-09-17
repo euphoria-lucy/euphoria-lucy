@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<p align="center">
 <img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/> SNS <img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/>
-</div>
+</p>
 
 <div align="center">
   <a href="https://www.instagram.com/jsdream._.7/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
