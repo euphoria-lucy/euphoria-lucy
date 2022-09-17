@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 ## <img src="https://img.icons8.com/dusk/20/000000/saving-book.png"/> STUDY TOOL <img src="https://img.icons8.com/dusk/20/000000/saving-book.png"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
+<img src="https://img.shields.io/badge/JAVA-47848F?style=for-the-badge&logo=Electron&logoColor=black">
