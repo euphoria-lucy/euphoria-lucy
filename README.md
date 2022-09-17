@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## <img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/> SNS <img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/>
+<a href="[https://www.instagram.com/jsdream._.7/]" target="_blank"><img src="https://img.shields.io/badge/[Instagram]-[#E6526F]?style=flat-square&logo=[Instagram]&logoColor=white"/></a>
