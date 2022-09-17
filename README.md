@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${WELCOME TO MISU'S WORLD}&fontSize=${20}&animation=${twinkling})
+
 <div align="center">
 <h1><img src="https://img.icons8.com/external-microdots-premium-microdot-graphic/37/000000/external-galaxy-space-astronomy-microdots-premium-microdot-graphic.png"/>   WELCOME TO MISU'S WORLD<img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/37/000000/external-space-space-and-galaxy-itim2101-lineal-color-itim2101.png"/></h1>
  </div>
