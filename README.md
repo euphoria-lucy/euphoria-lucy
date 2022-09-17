@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<h1><img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/> SNS <img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/></h1>
+<h2><img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/> SNS <img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/></h2>
 <a href="https://www.instagram.com/jsdream._.7/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://voielactee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://velog.io/@voielactee" target="_blank"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   </div>
-<br/><br/><br/>
+<br/><br/>
 
 <div align="center">
 <h1><img src="https://img.icons8.com/dusk/20/000000/saving-book.png"/> <strong>STUDY LANGUAGE</strong> <img src="https://img.icons8.com/dusk/20/000000/saving-book.png"/></h1>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/JAVA-47848F?style=for-the-badge&logo=Electron&logoColor=black"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-FF7800?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
   </div>
-<br/><br/><br/>
+<br/><br/>
 
 <div align="center">
 <h1><img src="https://img.icons8.com/color/20/000000/connectdevelop.png"/> <strong>STUDY TOOL</strong> <img src="https://img.icons8.com/color/20/000000/connectdevelop.png"/></h1>
