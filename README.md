@@ -1,4 +1,4 @@
-## WELCOME TO MISU'S WORLD <img src="https://img.icons8.com/external-basicons-line-edtgraphics/50/000000/external-space-space-basicons-line-edtgraphics-2.png"/>
+## <img src="https://img.icons8.com/external-basicons-line-edtgraphics/50/000000/external-space-space-basicons-line-edtgraphics-2.png"/> WELCOME TO MISU'S WORLD <img src="https://img.icons8.com/external-basicons-line-edtgraphics/50/000000/external-space-space-basicons-line-edtgraphics-2.png"/>
 
 <!--
 **euphoria-lucy/euphoria-lucy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
