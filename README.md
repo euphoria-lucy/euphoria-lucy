@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=black"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=black"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black"> 
 </div><br/><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphoria-lucy&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphoria-lucy&show_icons=true&theme=dracula)
