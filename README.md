@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <a href="https://voielactee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://velog.io/@voielactee" target="_blank"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
-## <img src="https://img.icons8.com/dusk/20/000000/saving-book.png"/> STUDY TOOL <img src="https://img.icons8.com/dusk/20/000000/saving-book.png"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/JAVA-47848F?style=for-the-badge&logo=Electron&logoColor=black">
+## <img src="https://img.icons8.com/dusk/20/000000/saving-book.png"/> STUDY LANGUAGE <img src="https://img.icons8.com/dusk/20/000000/saving-book.png"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/JAVA-47848F?style=for-the-badge&logo=Electron&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
