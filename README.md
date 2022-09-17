@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/> SNS <img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/> <hr>
+<img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/> SNS <img src="https://img.icons8.com/fluency/20/000000/my-melody.png"/>
 </p>
 
 <div align="center">
