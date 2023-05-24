@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/INSTAGRAM-F7CACA?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://voielactee.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/TISTORY-CDD2E6?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feuphoria-lucy&count_bg=%23F8CACC&title_bg=%238DA4D0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 <div align = "center">
