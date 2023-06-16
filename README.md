@@ -38,5 +38,6 @@
 <img src = "https://img.shields.io/badge/GitHub-9BB7D4?style=flat&logo=GitHub&logoColor=white"/> 
 </div> </br> </br> </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphoria-lucy&show_icons=true&theme=rose_pine)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoria-lucy&layout=compact&theme=rose_pine)](https://github.com/euphoria-lucy/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoria-lucy&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euphoria-lucy&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=euphoria-lucy&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
