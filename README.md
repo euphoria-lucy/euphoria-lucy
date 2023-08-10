@@ -9,7 +9,7 @@
 </div>
 
 <div align = "center">
-<h3> <img src="https://cdn-icons-png.flaticon.com/512/3627/3627782.png" width "24" height = "25"/> TECH STACK <img src="https://cdn-icons-png.flaticon.com/512/3627/3627782.png" width "25" height = "25"/> </h3>
+<h3> <img src="https://cdn-icons-png.flaticon.com/512/3627/3627782.png" width "25" height = "25"/> TECH STACK <img src="https://cdn-icons-png.flaticon.com/512/3627/3627782.png" width "25" height = "25"/> </h3>
 <img src="https://img.shields.io/badge/ANDROID-F1E7E4?style=flat&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-DADFEC?style=flat&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-CDD2E6?style=flat&logo=Cplusplus&logoColor=white"/>
