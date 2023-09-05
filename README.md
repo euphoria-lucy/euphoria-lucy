@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8DA4D0,100:F8CACC&height=200&section=header&text=MISUNG'S%20WORLD&fontSize=65&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8DA4D0,100:F8CACC&height=200&section=header&text=MISUNG'S%20GITHUB&fontSize=65&fontColor=ffffff"/>
 
 <div align = "center">
 <h3> <img src="https://cdn-icons-png.flaticon.com/512/332/332921.png" width = "25" height = "25"/> MY CONTACT NETWORK <img src="https://cdn-icons-png.flaticon.com/512/332/332921.png" width = "25" height = "25"/> </h3>
