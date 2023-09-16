@@ -42,4 +42,5 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoria-lucy&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euphoria-lucy&theme=dracula)
-[![GitHub Streak](https://streak-stats.demolab.com?user=euphoria-lucy&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=euphoria-lucy&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)  -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=euphoria-lucy&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
