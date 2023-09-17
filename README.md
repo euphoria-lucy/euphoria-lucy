@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8DA4D0,100:F8CACC&height=200&section=header&text=MISUNG'S%20GITHUB&fontSize=65&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=BCBDE2&height=200&section=header&text=MISUNG'S%20GITHUB&fontSize=65&fontColor=BCBDE2"/>
 
-<div align = "center">
+<!-- <div align = "center">
 <h3> <img src="https://cdn-icons-png.flaticon.com/512/332/332921.png" width = "25" height = "25"/> MY CONTACT NETWORK <img src="https://cdn-icons-png.flaticon.com/512/332/332921.png" width = "25" height = "25"/> </h3>
 <a href="https://www.instagram.com/mi._.castle/" target="_blank">
 <img src="https://img.shields.io/badge/INSTAGRAM-F7CACA?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://voielactee.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/TISTORY-CDD2E6?style=flat-square&logo=Tistory&logoColor=white"/></a>
-</div>
+</div> -->
 
 <div align = "center">
-<h3> <img src="https://cdn-icons-png.flaticon.com/512/3627/3627782.png" width "25" height = "25"/> TECH STACK <img src="https://cdn-icons-png.flaticon.com/512/3627/3627782.png" width "25" height = "25"/> </h3>
+<h3> <img src="https://cdn-icons-png.flaticon.com/128/2303/2303716.png" width "25" height = "25"/> TECH STACK <img src="https://cdn-icons-png.flaticon.com/128/2303/2303716.png" width "25" height = "25"/> </h3>
 <img src="https://img.shields.io/badge/ANDROID-F1E7E4?style=flat&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-DADFEC?style=flat&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-CDD2E6?style=flat&logo=Cplusplus&logoColor=white"/>
@@ -29,7 +29,7 @@
 </div>
 
 <div align = "center">
-<h3> <img src="https://cdn-icons-png.flaticon.com/512/2888/2888407.png" width = "25" height = "25"/> STUDY TOOL <img src="https://cdn-icons-png.flaticon.com/512/2888/2888407.png" width = "25" height = "25"/> </h3>
+<h3> <img src="https://cdn-icons-png.flaticon.com/128/8389/8389176.png" width = "25" height = "25"/> TECH TOOL <img src="https://cdn-icons-png.flaticon.com/128/8389/8389176.png" width = "25" height = "25"/> </h3>
 <img src="https://img.shields.io/badge/Eclipse IDE-F6DFE0?style=flat&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-CDD2E6?style=flat&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-D1E2EC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -40,6 +40,5 @@
 <img src = "https://img.shields.io/badge/GitHub-9BB7D4?style=flat&logo=GitHub&logoColor=white"/> 
 </div> </br> </br> </br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoria-lucy&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euphoria-lucy&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoria-lucy&theme=rose_pine)
 [![GitHub Streak](https://streak-stats.demolab.com?user=euphoria-lucy&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
