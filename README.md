@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=BCBDE2&height=200&section=header&text=MISUNG'S%20GITHUB&fontSize=65&fontColor=BCBDE2"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=E7B3B3&height=150&section=header&text=매일매일%201px씩%20성장하는%20개발자&fontSize=27&fontColor=E7B3B3"/>
 
 <!-- <div align = "center">
 <h3> <img src="https://cdn-icons-png.flaticon.com/512/332/332921.png" width = "25" height = "25"/> MY CONTACT NETWORK <img src="https://cdn-icons-png.flaticon.com/512/332/332921.png" width = "25" height = "25"/> </h3>
@@ -9,7 +10,7 @@
 </div> -->
 
 <div align = "center">
-<h3> <img src="https://cdn-icons-png.flaticon.com/128/2303/2303716.png" width "25" height = "25"/> TECH STACK <img src="https://cdn-icons-png.flaticon.com/128/2303/2303716.png" width "25" height = "25"/> </h3>
+<h3> <img src="https://cdn-icons-png.flaticon.com/128/2303/2303716.png" width "25" height = "25"/> STUDYING TECH STACK <img src="https://cdn-icons-png.flaticon.com/128/2303/2303716.png" width "25" height = "25"/> </h3>
 <img src="https://img.shields.io/badge/ANDROID-F1E7E4?style=flat&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-DADFEC?style=flat&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-CDD2E6?style=flat&logo=Cplusplus&logoColor=white"/>
@@ -26,10 +27,18 @@
 <img src="https://img.shields.io/badge/BOOTSTRAP-DCD3E7?style=flat&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-E7DCDA?style=flat&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F5E0CF?style=flat&logo=Git&logoColor=white"/>
+
+<h3> <img src="https://cdn-icons-png.flaticon.com/128/3627/3627782.png" width "25" height = "25"/> WANT TECH STACK <img src="https://cdn-icons-png.flaticon.com/128/3627/3627782.png" width "25" height = "25"/> </h3>
+<img src="https://img.shields.io/badge/Node.js-D6F4FF?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-C9E2E0?style=flat&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-D7E8D2?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/RUBY-FFA78F?style=flat&logo=ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/SWIFT-FFE9E8?style=flat&logo=swift&logoColor=white"/>
+
 </div>
 
 <div align = "center">
-<h3> <img src="https://cdn-icons-png.flaticon.com/128/8389/8389176.png" width = "25" height = "25"/> TECH TOOL <img src="https://cdn-icons-png.flaticon.com/128/8389/8389176.png" width = "25" height = "25"/> </h3>
+<h3> <img src="https://cdn-icons-png.flaticon.com/128/2539/2539779.png" width = "25" height = "25"/> TECH TOOL <img src="https://cdn-icons-png.flaticon.com/128/2539/2539779.png" width = "25" height = "25"/> </h3>
 <img src="https://img.shields.io/badge/Eclipse IDE-F6DFE0?style=flat&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-CDD2E6?style=flat&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-D1E2EC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -41,5 +50,4 @@
 </div> </br> </br> </br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoria-lucy&theme=rose_pine)
-</br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=euphoria-lucy&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
