@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=BCBDE2&height=200&section=header&text=MISUNG'S%20GITHUB&fontSize=65&fontColor=BCBDE2"/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=E7B3B3&height=150&section=header&text=매일매일%201px씩%20성장하는%20개발자&fontSize=27&fontColor=E7B3B3"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=BCBDE2&height=70&section=header&text=MISUNG'S%20GITHUB&fontSize=65&fontColor=BCBDE2"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=E7B3B3&height=50&section=header&text=매일매일%201px씩%20성장하는%20개발자&fontSize=27&fontColor=E7B3B3"/>
 
 <!-- <div align = "center">
 <h3> <img src="https://cdn-icons-png.flaticon.com/512/332/332921.png" width = "25" height = "25"/> MY CONTACT NETWORK <img src="https://cdn-icons-png.flaticon.com/512/332/332921.png" width = "25" height = "25"/> </h3>
@@ -49,5 +49,15 @@
 <img src = "https://img.shields.io/badge/GitHub-9BB7D4?style=flat&logo=GitHub&logoColor=white"/> 
 </div> </br> </br> </br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoria-lucy&theme=rose_pine)
-[![GitHub Streak](https://streak-stats.demolab.com?user=euphoria-lucy&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+<center>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoria-lucy&theme=rose_pine" alt="GitHub Stats" />
+</center>
+
+<center>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=euphoria-lucy&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+    </a>
+</center>
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoria-lucy&theme=rose_pine)
+[![GitHub Streak](https://streak-stats.demolab.com?user=euphoria-lucy&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats) -->
