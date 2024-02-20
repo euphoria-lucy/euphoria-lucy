@@ -53,11 +53,13 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoria-lucy&theme=rose_pine" alt="GitHub Stats" />
 </p>
 
+<!-- 
 <p align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=euphoria-lucy&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
     </a>
 </p>
+--->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoria-lucy&theme=rose_pine)
 [![GitHub Streak](https://streak-stats.demolab.com?user=euphoria-lucy&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats) -->
