@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=BCBDE2&height=90&section=header&text=MISUNG'S%20GITHUB&fontSize=65&fontColor=BCBDE2"/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=E7B3B3&height=50&section=header&text=매일매일%201px씩%20성장하는%20개발자&fontSize=27&fontColor=E7B3B3"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=E7B3B3&height=50&section=header&text=매일%201px씩%20성장하는%20개발자&fontSize=27&fontColor=E7B3B3"/>
 
 <!-- <div align = "center">
 <h3> <img src="https://cdn-icons-png.flaticon.com/512/332/332921.png" width = "25" height = "25"/> MY CONTACT NETWORK <img src="https://cdn-icons-png.flaticon.com/512/332/332921.png" width = "25" height = "25"/> </h3>
@@ -18,9 +18,12 @@
 <img src="https://img.shields.io/badge/HTML-F4E3C9?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F2EDC0?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-D5E1ED?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-C9E2E0?style=flat&logo=react&logoColor=white"/></a>
   
 </br>
 
+<img src="https://img.shields.io/badge/Spring-D7E8D2?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-D6F4FF?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-C1E3E4?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MYSQL-D5EBEE?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/KOTLIN-DED8EB?style=flat&logo=Kotlin&logoColor=white"/>
@@ -29,9 +32,6 @@
 <img src="https://img.shields.io/badge/Git-F5E0CF?style=flat&logo=Git&logoColor=white"/>
 
 <h3> <img src="https://cdn-icons-png.flaticon.com/128/3627/3627782.png" width "25" height = "25"/> WANT TECH STACK <img src="https://cdn-icons-png.flaticon.com/128/3627/3627782.png" width "25" height = "25"/> </h3>
-<img src="https://img.shields.io/badge/Node.js-D6F4FF?style=flat&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-C9E2E0?style=flat&logo=react&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-D7E8D2?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/RUBY-FFA78F?style=flat&logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/SWIFT-FFE9E8?style=flat&logo=swift&logoColor=white"/>
 
