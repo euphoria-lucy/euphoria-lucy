@@ -1,14 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=BCBDE2&height=90&section=header&text=MISUNG'S%20GITHUB&fontSize=65&fontColor=BCBDE2"/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=E7B3B3&height=50&section=header&text=매일%201px씩%20성장하는%20개발자&fontSize=27&fontColor=E7B3B3"/>
+## Hi! I'm miseong 👋
+
+A Front-End Developer
+
+[![tistory](https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://voielactee.tistory.com/) 
+
+
+### Languages & Tools 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,sass,git,figma,notion,vscode,github)](https://skillicons.dev)
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=BCBDE2&height=90&section=header&text=MISUNG'S%20GITHUB&fontSize=65&fontColor=BCBDE2"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=E7B3B3&height=50&section=header&text=매일%201px씩%20성장하는%20개발자&fontSize=27&fontColor=E7B3B3"/> -->
 
 <!-- <div align = "center">
 <h3> <img src="https://cdn-icons-png.flaticon.com/512/332/332921.png" width = "25" height = "25"/> MY CONTACT NETWORK <img src="https://cdn-icons-png.flaticon.com/512/332/332921.png" width = "25" height = "25"/> </h3>
-<a href="https://www.instagram.com/mi._.castle/" target="_blank">
+<a href="https://www.instagram.com/immcastle/" target="_blank">
 <img src="https://img.shields.io/badge/INSTAGRAM-F7CACA?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://voielactee.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/TISTORY-CDD2E6?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </div> -->
 
+<!--
 <div align = "center">
 <h3> <img src="https://cdn-icons-png.flaticon.com/128/2303/2303716.png" width "25" height = "25"/> STUDYING TECH STACK <img src="https://cdn-icons-png.flaticon.com/128/2303/2303716.png" width "25" height = "25"/> </h3>
 <img src="https://img.shields.io/badge/ANDROID-F1E7E4?style=flat&logo=Android&logoColor=white"/>
@@ -51,7 +62,8 @@
 
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoria-lucy&theme=rose_pine" alt="GitHub Stats" />
-</p>
+</p> 
+-->
 
 <!-- 
 <p align="center">
