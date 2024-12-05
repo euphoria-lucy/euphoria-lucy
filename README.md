@@ -1,4 +1,4 @@
-## Hi! I'm miseong 👋
+<!-- ## Hi! I'm miseong 👋 -->
 
 <!-- A Front-End Developer />
 
