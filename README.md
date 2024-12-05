@@ -1,12 +1,12 @@
 ## Hi! I'm miseong 👋
 
-A Front-End Developer
+<!-- A Front-End Developer />
 
-[![tistory](https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://voielactee.tistory.com/) 
+<!-- [![tistory](https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://voielactee.tistory.com/) />
 
 
-### Languages & Tools 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,sass,git,figma,notion,vscode,github)](https://skillicons.dev)
+<!-- ### Languages & Tools />
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,sass,git,figma,notion,vscode,github)](https://skillicons.dev) />
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=BCBDE2&height=90&section=header&text=MISUNG'S%20GITHUB&fontSize=65&fontColor=BCBDE2"/>
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=E7B3B3&height=50&section=header&text=매일%201px씩%20성장하는%20개발자&fontSize=27&fontColor=E7B3B3"/> -->
